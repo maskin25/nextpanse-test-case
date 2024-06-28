@@ -40,4 +40,6 @@ body {
   text-align: center;
   color: white;
   filter: drop-shadow(2px 2px 5px #000000);
+  width: 100%;
+  box-sizing: border-box;
 }
